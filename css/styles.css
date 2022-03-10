@@ -40,7 +40,6 @@ header {
     height: 60px;
     display: flex;
     align-items: center;
-
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -62,8 +61,7 @@ a, a:hover {
 }
 
 #dsmovie-card-list{
-    padding: 40px 0;
-
+    padding: 40px 10px;
 }
 
 .dsmovie-card{
@@ -82,14 +80,13 @@ a, a:hover {
     justify-content: space-between;
     align-items: center;
     border-radius: 0 0 8px 8px;
-    height: 220px;
-
+    height: 190px;
 }
 
 .dsmovie-card-description h3{
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -114,7 +111,6 @@ a, a:hover {
 
 .dsmovie-car-description-bottom img {
     width: 22px;
-    
 }
 
 .dsmovie-btn, dsmovie-btn:hover {
